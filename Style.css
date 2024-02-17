@@ -1,0 +1,20 @@
+body{
+    margin-left: 50px;
+    background-color: antiquewhite;
+    
+    
+}
+.image img{
+    width: 100px;
+    border-radius: 80%;
+    border: 2px solid; 
+}
+h2{
+    color: brown;
+}
+h3{
+    color:brown ;
+}  
+p{
+    color: #000;
+}
